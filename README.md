@@ -40,7 +40,7 @@
            Bank Denied / Wrong Information
     
     • 🎨 Consistent & Modern UI Design    
-           Purple-themed layout with intuitive icons and clean visual hierarchy for better readability.
+           Purple-themed layout with intuitive icons and clean visual hierarchy for better readability. 
     
     • 📌 Multi-Page Navigation / Buttons  
            Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.
