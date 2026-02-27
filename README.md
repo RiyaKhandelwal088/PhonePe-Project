@@ -1,10 +1,10 @@
 # PhonePe-Analytics-Project
 
-1. Project Title / Headline   
+## 1. Project Title / Headline   
    End-to-End Interactive Analytics Dashboard for PhonePe Transactions
 
    
-2. Short Description  
+## 2. Short Description  
    This project is an interactive Power BI dashboard that provides a comprehensive analysis of PhonePe transactions across multiple          services such as Insurance, Loans, Transactions, and Recharge & Bills. It offers clear insights into transaction volumes, payment         success rates, failure reasons, and monthly trends using visually rich and user-friendly dashboards.
 
 3. Tech Stack  
