@@ -14,27 +14,27 @@
    • 📁 File Format – .pbix for development and .png for dashboard previews
 
  4. Key Features  
-    • 📅 Dynamic Date Range Filtering  
+    • 📅 Dynamic Date Range Filtering    
          Analyze data across custom time periods for flexible insights.
-    • 💰 High-Level KPIs  
+    • 💰 High-Level KPIs    
          Displays Total Amount, Total Transactions, Successful Transactions, and Failed Transactions at a glance.
-    • 📈 Monthly Trend Analysis  
+    • 📈 Monthly Trend Analysis    
          Line and area charts showing Amount vs Month to identify growth patterns and seasonal trends.
-    • 📊 Category-wise Breakdown  
+    • 📊 Category-wise Breakdown    
          Insurance: Bike, Car, Term Life, Health  
          Loans: Gold Loan, Auto Loan, Mutual Funds, Credit Score  
          Transactions: UPI ID, Self Account, QR Code, Mobile Number  
          Recharge & Bills: Electricity, DTH, Mobile, Cable TV  
-    • ✅ Payment Status Visualization  
+    • ✅ Payment Status Visualization    
          Donut charts representing Successful vs Failed transactions for quick performance evaluation.  
-    • ❌ Failed Payment Reason Analysis  
+    • ❌ Failed Payment Reason Analysis    
          Detailed insights into failure causes such as:  
          Server Error  
          Wrong PIN  
          Insufficient Balance  
          Bank Denied / Wrong Information  
-    • 🎨 Consistent & Modern UI Design  
+    • 🎨 Consistent & Modern UI Design    
          Purple-themed layout with intuitive icons and clean visual hierarchy for better readability.  
-    • 📌 Multi-Page Navigation / Buttons
+    • 📌 Multi-Page Navigation / Buttons  
           Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.  
  
