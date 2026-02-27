@@ -43,5 +43,10 @@
            Purple-themed layout with intuitive icons and clean visual hierarchy for better readability.
     
     • 📌 Multi-Page Navigation / Buttons  
-           Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.  
+           Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.
+
+5. Screenshot
+
+      <img width="885" height="500" alt="image" src="https://github.com/user-attachments/assets/a260c763-845c-4d9f-aa99-45ab7df3598c" />
+
  
