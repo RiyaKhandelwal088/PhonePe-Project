@@ -15,9 +15,11 @@
 
  4. Key Features  
     • 📅 Dynamic Date Range Filtering    
-           Analyze data across custom time periods for flexible insights.  
+           Analyze data across custom time periods for flexible insights.
+    
     • 💰 High-Level KPIs      
-           Displays Total Amount, Total Transactions, Successful Transactions, and Failed Transactions at a glance.  
+           Displays Total Amount, Total Transactions, Successful Transactions, and Failed Transactions at a glance.
+     
     • 📈 Monthly Trend Analysis      
            Line and area charts showing Amount vs Month to identify growth patterns and seasonal trends.  
     • 📊 Category-wise Breakdown      
