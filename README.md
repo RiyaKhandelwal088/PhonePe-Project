@@ -45,7 +45,7 @@
     • 📌 Multi-Page Navigation / Buttons  
            Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.
 
-5.  Screenshot
+5.  Screenshot / Demos
 
       <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a260c763-845c-4d9f-aa99-45ab7df3598c" />  
       
