@@ -1,20 +1,20 @@
 # PhonePe-Analytics-Project
 
-## 1. Project Title / Headline   
+### 1. Project Title / Headline   
    End-to-End Interactive Analytics Dashboard for PhonePe Transactions
 
    
-## 2. Short Description  
+### 2. Short Description  
    This project is an interactive Power BI dashboard that provides a comprehensive analysis of PhonePe transactions across multiple          services such as Insurance, Loans, Transactions, and Recharge & Bills. It offers clear insights into transaction volumes, payment         success rates, failure reasons, and monthly trends using visually rich and user-friendly dashboards.
 
-3. Tech Stack  
-   • 📊 Power BI Desktop – Main data visualization platform used for report creation.  
+### 3. Tech Stack  
+       • 📊 Power BI Desktop – Main data visualization platform used for report creation.  
    • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.   
    • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and            aggregation.  
    • 📁 File Format – .pbix for development and .png for dashboard previews
 
- 4. Key Features  
-    • 📅 Dynamic Date Range Filtering    
+### 4. Key Features  
+      • 📅 Dynamic Date Range Filtering    
            Analyze data across custom time periods for flexible insights.
     
     • 💰 High-Level KPIs      
@@ -45,7 +45,7 @@
     • 📌 Multi-Page Navigation / Buttons  
            Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.
 
-5.  Screenshot / Demos
+### 5.  Screenshot / Demos
 
       <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a260c763-845c-4d9f-aa99-45ab7df3598c" />  
       
