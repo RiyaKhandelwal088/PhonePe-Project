@@ -15,26 +15,26 @@
 
  4. Key Features  
     • 📅 Dynamic Date Range Filtering  
-       Analyze data across custom time periods for flexible insights.
+         Analyze data across custom time periods for flexible insights.
     • 💰 High-Level KPIs  
-       Displays Total Amount, Total Transactions, Successful Transactions, and Failed Transactions at a glance.
+         Displays Total Amount, Total Transactions, Successful Transactions, and Failed Transactions at a glance.
     • 📈 Monthly Trend Analysis  
-       Line and area charts showing Amount vs Month to identify growth patterns and seasonal trends.
+         Line and area charts showing Amount vs Month to identify growth patterns and seasonal trends.
     • 📊 Category-wise Breakdown  
-       Insurance: Bike, Car, Term Life, Health  
-       Loans: Gold Loan, Auto Loan, Mutual Funds, Credit Score  
-       Transactions: UPI ID, Self Account, QR Code, Mobile Number  
-       Recharge & Bills: Electricity, DTH, Mobile, Cable TV  
+         Insurance: Bike, Car, Term Life, Health  
+         Loans: Gold Loan, Auto Loan, Mutual Funds, Credit Score  
+         Transactions: UPI ID, Self Account, QR Code, Mobile Number  
+         Recharge & Bills: Electricity, DTH, Mobile, Cable TV  
     • ✅ Payment Status Visualization  
-       Donut charts representing Successful vs Failed transactions for quick performance evaluation.  
+         Donut charts representing Successful vs Failed transactions for quick performance evaluation.  
     • ❌ Failed Payment Reason Analysis  
-       Detailed insights into failure causes such as:  
-       Server Error  
-       Wrong PIN  
-       Insufficient Balance  
-       Bank Denied / Wrong Information  
+         Detailed insights into failure causes such as:  
+         Server Error  
+         Wrong PIN  
+         Insufficient Balance  
+         Bank Denied / Wrong Information  
     • 🎨 Consistent & Modern UI Design  
-       Purple-themed layout with intuitive icons and clean visual hierarchy for better readability.  
+         Purple-themed layout with intuitive icons and clean visual hierarchy for better readability.  
     • 📌 Multi-Page Navigation / Buttons
-       Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.  
+          Seamless switching between Home, Insurance, Loans, Transactions, and Recharge & Bills dashboards.  
  
