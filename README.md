@@ -1,4 +1,4 @@
-# PhonePe-Analytics-Project
+# PhonePe-Analytics-Project-Dashboard
 
 ### 1. Project Title / Headline   
    End-to-End Interactive Analytics Dashboard for PhonePe Transactions
